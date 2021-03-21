@@ -16,7 +16,7 @@
 import os
 import setuptools
 
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 folder = os.path.dirname(__file__)
 with open(os.path.join(folder, 'requirements.txt')) as fp:
